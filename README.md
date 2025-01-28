@@ -46,7 +46,7 @@ I'm Bikash, a passionate **Full Stack Developer** specializing in both **Fronten
 ---
 
 ### 💼 Current Roles:
-- **SDE Intern @Comfy Trip**  
+- **SDE Intern @Komfy Trip**  
   Working on backend systems, dynamic bookings, and API integrations.
   
 - **Web Technology Lead @GDG AEC '24**  
