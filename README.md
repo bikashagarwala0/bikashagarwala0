@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Bikash Agarwala 👋</h1>
-<h3 align="center">SDE Intern @Comfy Trip | Full Stack Developer | Web Technology Lead '24 @GDG AEC</h3>
+<h3 align="center">SDE Intern @Komfy Trip | Full Stack Developer | Web Technology Lead '24 @GDG AEC</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BikashAgarwala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
