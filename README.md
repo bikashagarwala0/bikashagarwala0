@@ -18,7 +18,7 @@ I’m **Bikash**, a **Full Stack Developer** who loves turning ideas into scalab
 From crafting slick **frontends** to building robust **backends**, I enjoy working across the stack and constantly pushing my skills forward.  
 
 - 🔭 **Currently working on**: Travel booking platforms, dynamic APIs & backend systems  
-- 🌱 **Exploring**: **Next.js**, **Spring Boot**, Cloud & DevOps  
+- 🌱 **Exploring**: **Machine learning**, **Spring Boot**, Cloud & DevOps  
 - ⚡ Fun fact: I debug faster with coffee ☕  
 
 ---
