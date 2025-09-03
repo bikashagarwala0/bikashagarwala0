@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Bikash Agarwala 👋</h1>
-<h3 align="center">Full Stack Developer | SDE @Komfy Trip | Web Tech Lead @GDG AEC</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#FF5733">Bikash Agarwala</span></h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 SDE @Komfy Trip | 🌐 Web Tech Lead @GDG AEC</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BikashAgarwala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/BikashAgarwala?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=BikashAgarwala&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/BikashAgarwala?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF" width="220" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ From crafting slick **frontends** to building robust **backends**, I enjoy worki
   <a href="https://github.com/BikashAgarwala" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://x.com/agarwalabikash_" target="_blank">
+  <a href="https://x.com/bikashagarwala0" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
