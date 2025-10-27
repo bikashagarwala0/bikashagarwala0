@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BikashAgarwala&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BikashAgarwala&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/BikashAgarwala?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
 </p>
 
@@ -42,10 +42,10 @@ I thrive across the entire stack, from pixel-perfect frontends to high-availabil
 <tr>
 <td width="22%" valign="top"><strong>Languages:</strong></td>
 <td width="78%">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </td>
 </tr>
 <tr>
@@ -58,14 +58,15 @@ I thrive across the entire stack, from pixel-perfect frontends to high-availabil
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Postman" />
 </td>
 </tr>
 <tr>
 <td valign="top"><strong>Databases:</strong></td>
 <td>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 </td>
 </tr>
 </table>
@@ -83,33 +84,30 @@ Past Web Tech Lead @GDG AEC (2024-25)  
 
 📊 GitHub Activity
 
-<p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBikashAgarwala%26show_icons%3Dtrue%26theme%3Dradical%26border_radius%3D10%26hide_border%3Dtrue%26rank_icon%3Dgithub" alt="Bikash's GitHub Stats" />
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBikashAgarwala%26layout%3Dcompact%26theme%3Dradical%26border_radius%3D10%26hide_border%3Dtrue" alt="Top Languages" />
-</p>
+  <h3>🔥 Streak Stats</h3>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=BikashAgarwala&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
 
+<!--  <h3>💻 GitHub Profile Stats</h3>
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=BikashAgarwala&theme=radical&no-frame=true&margin-w=5&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BikashAgarwala's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BikashAgarwala&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BikashAgarwala's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BikashAgarwala&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
-
+-->
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BikashAgarwala&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" />
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BikashAgarwala's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BikashAgarwala&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 🌐 Connect with Me
 
 <p align="center">
-  <a href="httpsG://https://www.google.com/search?q=www.linkedin.com/in/bikash-agarwala-283873229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/BikashAgarwala" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/bikashagarwala0" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <a href="www.linkedin.com/in/bikashagarwala0"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/bikashagarwala0"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 🖥️ Portfolio
