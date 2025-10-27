@@ -110,10 +110,10 @@ Past Web Tech Lead @GDG AEC (2024-25)  
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-🖥️ Portfolio
+<!--🖥️ Portfolio
 
 <p align="center">
   <a href="https://bikash-agarwala.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+</p> -->
