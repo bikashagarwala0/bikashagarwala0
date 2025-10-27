@@ -85,7 +85,7 @@ Past Web Tech Lead @GDG AEC (2024-25)  
 
 <p align="center">
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBikashAgarwala%26show_icons%3Dtrue%26theme%3Dradical%26border_radius%3D10%26hide_border%3Dtrue%26rank_icon%3Dgithub" alt="Bikash's GitHub Stats" />
-<img align="center" src="httpsa://github-readme-stats.vercel.app/api/top-langs/?username=BikashAgarwala&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBikashAgarwala%26layout%3Dcompact%26theme%3Dradical%26border_radius%3D10%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ Past Web Tech Lead @GDG AEC (2024-25)  
 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bikash-agarwala-283873229" target="_blank">
+  <a href="httpsG://https://www.google.com/search?q=www.linkedin.com/in/bikash-agarwala-283873229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/BikashAgarwala" target="_blank">
@@ -115,7 +115,7 @@ Past Web Tech Lead @GDG AEC (2024-25)  
 🖥️ Portfolio
 
 <p align="center">
-  <a href="httpsStorage: //bikash-agarwala.vercel.app/" target="_blank">
+  <a href="https://bikash-agarwala.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
