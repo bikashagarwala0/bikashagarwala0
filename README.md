@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#FF5733">Bikash Agarwala</span></h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 SDE @Komfy Trip | 🛠️ Open-Source Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | 🛠️ Open-Source Contributor | 💻 Ex-SDE @Komfy Trip</h3>
 
 <p align="center">
 <i>"Building what's next, not just what's now."</i>
@@ -19,8 +19,6 @@
 I'm Bikash, a Full Stack Developer on a mission: turn complex problems into scalable, production-grade solutions. I don't just build; I build to last.
 
 I thrive across the entire stack, from pixel-perfect frontends to high-availability backends. My goal isn't just to keep up—it's to set the pace.
-
-🔭 Currently building: The future of travel tech at Komfy Trip.
 
 🌱 Exploring: Advanced Spring Boot, data orchestration, and contributing to open-source projects like Kestra.
 
