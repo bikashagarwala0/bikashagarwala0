@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BikashAgarwala&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/BikashAgarwala?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=bikashagarwala0&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/bikashagarwala0?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
 </p>
 
 <table>
@@ -85,18 +85,18 @@ Past Web Tech Lead @GDG AEC (2024-25)  
   <h3>🔥 Streak Stats</h3>
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=BikashAgarwala&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=bikashagarwala0&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
 
 <!--  <h3>💻 GitHub Profile Stats</h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BikashAgarwala's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BikashAgarwala&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BikashAgarwala's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BikashAgarwala&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BikashAgarwala's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bikashagarwala0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BikashAgarwala's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bikashagarwala0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
 -->
 <p align="center">
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BikashAgarwala's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BikashAgarwala&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BikashAgarwala's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=bikashagarwala0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 🌐 Connect with Me
